@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/aif_bg.qm</file>
+        <file alias="de">locale/aif_de.qm</file>
+        <file alias="en">locale/aif_en.qm</file>
+        <file alias="es">locale/aif_es.qm</file>
+        <file alias="fi">locale/aif_fi.qm</file>
+        <file alias="fr">locale/aif_fr.qm</file>
+        <file alias="it">locale/aif_it.qm</file>
+        <file alias="ja">locale/aif_ja.qm</file>
+        <file alias="nl">locale/aif_nl.qm</file>
+        <file alias="pl">locale/aif_pl.qm</file>
+        <file alias="pt">locale/aif_pt.qm</file>
+        <file alias="ru">locale/aif_ru.qm</file>
+        <file alias="sk">locale/aif_sk.qm</file>
+        <file alias="sv">locale/aif_sv.qm</file>
+        <file alias="vi">locale/aif_vi.qm</file>
+        <file alias="zh_CN">locale/aif_zh_CN.qm</file>
+        <file alias="zh_TW">locale/aif_zh_TW.qm</file>
+    </qresource>
+</RCC>

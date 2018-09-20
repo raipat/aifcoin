@@ -1,0 +1,6 @@
+usr/local/bin/aif-qt usr/bin
+share/pixmaps/aif32.xpm usr/share/pixmaps
+share/pixmaps/aif16.xpm usr/share/pixmaps
+share/pixmaps/aif128.png usr/share/pixmaps
+debian/aif-qt.desktop usr/share/applications
+debian/aif-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,22 @@
+[Unit]
+Description=Aif's distributed currency daemon
+After=network.target
+
+[Service]
+User=aifcore
+Group=aifcore
+
+Type=forking
+PIDFile=/var/lib/aifd/aifd.pid
+ExecStart=/usr/bin/aifd -daemon -pid=/var/lib/aifd/aifd.pid \
+-conf=/etc/aifcore/aif.conf -datadir=/var/lib/aifd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
