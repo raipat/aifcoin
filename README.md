@@ -9,6 +9,9 @@ https://www.aif.org
 What is Aif?
 ----------------
 
+AIF coin is just an experiment for demo purposes!
+Don't use, publish or mine it, this is no real crypto ;-)
+
 Aif is an experimental digital currency that enables anonymous, instant
 payments to anyone, anywhere in the world. Aif uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
